@@ -1,0 +1,13 @@
+D:\estudo dotnet\vetores\matrizexe2\matrizexe2\bin\Debug\netcoreapp3.1\matrizexe2.exe
+D:\estudo dotnet\vetores\matrizexe2\matrizexe2\bin\Debug\netcoreapp3.1\matrizexe2.deps.json
+D:\estudo dotnet\vetores\matrizexe2\matrizexe2\bin\Debug\netcoreapp3.1\matrizexe2.runtimeconfig.json
+D:\estudo dotnet\vetores\matrizexe2\matrizexe2\bin\Debug\netcoreapp3.1\matrizexe2.runtimeconfig.dev.json
+D:\estudo dotnet\vetores\matrizexe2\matrizexe2\bin\Debug\netcoreapp3.1\matrizexe2.dll
+D:\estudo dotnet\vetores\matrizexe2\matrizexe2\bin\Debug\netcoreapp3.1\matrizexe2.pdb
+D:\estudo dotnet\vetores\matrizexe2\matrizexe2\obj\Debug\netcoreapp3.1\matrizexe2.AssemblyInfoInputs.cache
+D:\estudo dotnet\vetores\matrizexe2\matrizexe2\obj\Debug\netcoreapp3.1\matrizexe2.AssemblyInfo.cs
+D:\estudo dotnet\vetores\matrizexe2\matrizexe2\obj\Debug\netcoreapp3.1\matrizexe2.csproj.CoreCompileInputs.cache
+D:\estudo dotnet\vetores\matrizexe2\matrizexe2\obj\Debug\netcoreapp3.1\matrizexe2.dll
+D:\estudo dotnet\vetores\matrizexe2\matrizexe2\obj\Debug\netcoreapp3.1\matrizexe2.pdb
+D:\estudo dotnet\vetores\matrizexe2\matrizexe2\obj\Debug\netcoreapp3.1\matrizexe2.genruntimeconfig.cache
+D:\estudo dotnet\vetores\matrizexe2\matrizexe2\obj\Debug\netcoreapp3.1\matrizexe2.csprojAssemblyReference.cache
